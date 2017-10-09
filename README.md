@@ -1,1 +1,1 @@
-# react-firebase-sample
+# react-firebase-connector
